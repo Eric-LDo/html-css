@@ -1,0 +1,37 @@
+@charset "UTF-8";
+body{
+    background-color: #7fffb9;
+}
+h1{
+ color: #035226;
+}
+h2{
+color: #047939;
+}
+p{
+
+}
+#principal {
+    font-size: 3em;
+    text-align: center;
+    
+}
+h2.basico{
+    background-color: #047939;
+    width: 50%;
+    border-radius: 15px;
+    color: white
+}
+
+h2.inter{
+    background-color: #6d7904;
+    width: 50%;
+    border-radius: 15px;
+    color: white
+}
+h2.avan{
+    background-color: #790414;
+    width: 50%;
+    border-radius: 15px;
+    color: white
+}
