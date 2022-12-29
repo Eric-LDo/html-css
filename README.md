@@ -1,3 +1,4 @@
 # html-css
-<a herf="https://eric-ldo.github.io/html-css/treinos/d010/index.html">Desafio 10</a>
+Site para estudos e treinos de HTML e CSS
+https://eric-ldo.github.io/html-css/treinos/d010/index.html
  
