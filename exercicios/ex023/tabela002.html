@@ -23,6 +23,7 @@
         table {
             width: 500px;
             border-collapse: collapse;
+            position: relative;
         }
         caption {
             text-align: center;
@@ -35,8 +36,11 @@
         tbody > tr:nth-child(2n) {
             background-color: rgb(227, 227, 227);
         }
-      
-        
+        thead > tr > th {
+            position: sticky;
+            top: -1px;
+            background-color: rgb(139, 138, 138);
+        }        
         
     </style>
 </head>
